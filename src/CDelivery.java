@@ -24,7 +24,9 @@ public class CDelivery {
     int Weekend() {
         return 50;
     }
-
+    
+    //adding comments
+    
     public static void main(String[] args) {
         CDelivery Cobj = new CDelivery();
         CDelivery Cobj1 = new CDelivery();
